@@ -1,0 +1,6 @@
+[submodule "src/lettering"]
+	path = src/lettering
+	url = https://github.com/davatron5000/Lettering.js.git
+[submodule "src/circletype"]
+	path = src/circletype
+	url = https://github.com/peterhry/CircleType.git

@@ -1,0 +1,16 @@
+{
+  "name": "lettering-circletype",
+  "version": "1.0.0",
+  "description": "A Distribution of Lettering.js with Ciryletype.js",
+  "scripts": {
+    "build": "webpack --config webpack.build.config.js",
+    "prod": "webpack --config webpack.prod.config.js"
+  },
+  "main": "build.js",
+  "repository": "git@github.com:PascaleBeier/lettering-circletype.git",
+  "author": "Pascale Beier <mail@pascalebeier.de>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
